@@ -1,0 +1,4 @@
+.btn:focus {
+    border-color: #ced4da !important;
+    box-shadow: none !important; 
+}

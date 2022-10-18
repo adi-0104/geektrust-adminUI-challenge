@@ -1,0 +1,10 @@
+.search-box{
+    width: 50% ;
+}
+.form-control:focus{
+    border-color: #ced4da;
+    box-shadow: none;
+}
+.delete-selected-wrapper{
+    width: 15%
+}

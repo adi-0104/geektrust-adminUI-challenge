@@ -1,0 +1,18 @@
+.icon-button-wrapper{
+    display: inline-block;
+    
+    
+}
+
+.icon-button{
+    border: none;
+    background-color: white;
+    /* padding: 0; */
+    margin-right: 0.6rem;
+    margin-bottom: 0.3rem;
+    border-radius: 50%;
+}
+
+.delete-icon{
+    color: red;
+}
